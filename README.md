@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Edu QR 👋
 
-<!--
-**EDU11QR/EDU11QR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software enfocado en el ecosistema **Java**. Me apasiona construir el backend de las aplicaciones y estoy explorando nuevas tecnologías para el frontend.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que utilizo:
+* **Backend:** Java & Spring Boot.
+* **Base de Datos:** MySQL.
+* **Frontend:** HTML5, CSS3 y React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí:
+* 📍 Ubicado en Lima, Perú.
+* 📚 Actualmente profundizando en Microservicios y React.
+* 🤝 Disponible para colaborar en proyectos de código abierto.
+
+### 🌐 Conéctate conmigo:
+[LinkedIn](https://www.linkedin.com/in/edu-quispe-rojas-54014b344/) | [Instagram](https://instagram.com/eduqr11) | [GitHub](https://github.com/EDU11QR)
+
+---
+*“El código es poesía en movimiento.”*
