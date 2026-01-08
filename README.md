@@ -11,9 +11,7 @@ Desarrollador de Software enfocado en el ecosistema **Java**. Me apasiona constr
 * 📍 Ubicado en Lima, Perú.
 * 📚 Actualmente profundizando en Microservicios y React.
 * 🤝 Disponible para colaborar en proyectos de código abierto.
+* 📧 Escribeme a quisperojasedu@gmail.com
 
 ### 🌐 Conéctate conmigo:
-[LinkedIn](https://www.linkedin.com/in/edu-quispe-rojas-54014b344/) | [Instagram](https://instagram.com/eduqr11) | [GitHub](https://github.com/EDU11QR) | [Gmail](quisperojasedu@gmail.com)
-
----
-*“El código es poesía en movimiento.”*
+[LinkedIn](https://www.linkedin.com/in/edu-quispe-rojas-54014b344/) | [Instagram](https://instagram.com/eduqr11) | [GitHub](https://github.com/EDU11QR)
