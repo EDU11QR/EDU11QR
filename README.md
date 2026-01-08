@@ -13,7 +13,7 @@ Desarrollador de Software enfocado en el ecosistema **Java**. Me apasiona constr
 * 🤝 Disponible para colaborar en proyectos de código abierto.
 
 ### 🌐 Conéctate conmigo:
-[LinkedIn](https://www.linkedin.com/in/edu-quispe-rojas-54014b344/) | [Instagram](https://instagram.com/eduqr11) | [GitHub](https://github.com/EDU11QR)
+[LinkedIn](https://www.linkedin.com/in/edu-quispe-rojas-54014b344/) | [Instagram](https://instagram.com/eduqr11) | [GitHub](https://github.com/EDU11QR) | [Gmail](quisperojasedu@gmail.com)
 
 ---
 *“El código es poesía en movimiento.”*
