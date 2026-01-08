@@ -4,7 +4,8 @@ Desarrollador de Software enfocado en el ecosistema **Java**. Me apasiona constr
 
 ### 🛠️ Tecnologías que utilizo:
 * **Backend:** Java & Spring Boot.
-* **Base de Datos:** MySQL.
+* **Base de Datos:** MySQL & SQLite.
+* **Mobile:** Kotlin (Android Development).
 * **Frontend:** HTML5, CSS3 y React.
 
 ### 🚀 Sobre mí:
